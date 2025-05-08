@@ -1,0 +1,4 @@
+email_id,subject,body,from_address,timestamp
+1,"Urgent: Verify Your Account","Dear user, please verify your account by clicking http://phishy-link.com","noreply@bank.com","2025-05-08T10:00:00"
+2,"Meeting Reminder","Just a reminder for our meeting tomorrow.","colleague@example.com","2025-05-08T11:00:00"
+3,"Action Required: Update Information","Your account is compromised! Update your details at http://fake-update.com","security@fakebank.com","2025-05-08T12:00:00"
